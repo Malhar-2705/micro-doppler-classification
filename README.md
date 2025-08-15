@@ -40,7 +40,7 @@ The following table summarizes the validation accuracies and training epochs of 
 <img width="1578" height="654" alt="image" src="https://github.com/user-attachments/assets/1d8efad0-e2ee-45bf-a54a-e08a7676cc00" />
 
 Results and Analysis
-Based on the evaluation, the Vision Mamba with ZSL model achieved the highest validation accuracy of 99.79%. The ResNet50 with Skip Connections and VGG19 with Attention models also performed exceptionally well, both achieving 99.28% accuracy. The ConvKAN model followed closely with 99.18%. The MobileNetV2 model provided a respectable accuracy of 92.99%, while the VGG16 model had the lowest performance in this comparison.
+Based on the evaluation, the Vision Mamba with ZSL model achieved the highest validation accuracy of 99.79%. The ResNet50 with Skip Connections and VGG19 with Attention models also performed exceptionally well, both achieving 99.28% accuracy. The ConvKAN model followed closely with 99.18%. The MobileNetV2 model provided a respectable accuracy of 92.99%, while the VGG16 model had the lowest performance in this comparison. (Note:All the graphs of all codes are present in their respective output terminals.) 
 
 The high accuracies of the top-performing models demonstrate the effectiveness of modern CNN architectures, attention mechanisms, and novel approaches like State-Space Models (Mamba) and KANs for Micro-Doppler signature classification.
 

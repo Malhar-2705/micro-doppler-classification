@@ -1,4 +1,7 @@
-Micro-Doppler Based Target Classification
+Topics-
+1) Micro-Doppler Based Target Classification
+2) Object Classification Using ‘Convolutional Kolmogorov-Arnold Networks’ from Radar images
+3) Zero-Shot Aerial Target Classification Using Vision Mamba on Radar Spectrograms
 This repository contains the code and results for Micro-Doppler based target classification using various deep learning models. The models are trained and evaluated on the DIAT-RADSATNET dataset, which consists of 4849 images of Micro-Doppler signatures.
 
 Introduction
